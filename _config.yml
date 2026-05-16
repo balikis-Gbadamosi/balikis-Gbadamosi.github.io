@@ -25,7 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Balikis Kadiri Gbadamosi"
-  pronouns         : "MA student in Medical and Mental Health Sociology at Kent State University, with a passion for understanding how trauma, adversity, and life experiences shape health outcomes. Grounded in the stress process model, life course theory, and the study of ACEs."
+  pronouns         : "She/her"
+  bio              : " MA student in Medical and Mental Health Sociology at Kent State University, with a passion for understanding how trauma, adversity, and life experiences shape health outcomes. Grounded in the stress process model, life course theory, and the study of ACEs."
   location         : "United States"
   employer         : "Kent State University"
   uri              : # URL
@@ -50,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "balikis-Gbadamosi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
