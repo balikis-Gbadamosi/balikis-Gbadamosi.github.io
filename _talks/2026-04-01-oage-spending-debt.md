@@ -4,7 +4,7 @@ collection: talks
 type: "Poster Presentation"
 permalink: /talks/2026-04-01-oage-spending-debt
 venue: "Ohio Association of Gerontology and Education Conference"
-date: 2026-04-16
+date: 2026-04-17
 location: "Ohio, USA"
 ---
 Poster presentation examining how spending behavior and debt 
