@@ -154,7 +154,7 @@ Paper: Challenges and prospects of campus shuttle services at LASU
 ## Awards & Honors
 
 - James E. Fleming Memorial Award — 2026
-- Graduate Senate Student Domestic Travel Award, KSU — 2026
+- Graduate Senate Student Domestic Travel Award, KSU — 2026    
 - Pam Matura Student Travel Funds, OAGE Conference — 2026
 - Alpha Kappa Delta Student Research Member Travel Grant — 2026
 - Best Graduating Student, Faculty of Social Sciences, LASU — 2023
