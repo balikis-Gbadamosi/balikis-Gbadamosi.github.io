@@ -2,7 +2,7 @@
 title: "Impact of Spending Behavior and Debt Insecurity on Older Adults Aged 50-64"
 collection: talks
 type: "Poster Presentation"
-permalink: /talks/2026-04-01-oage-spending-debt
+permalink: /talks/2026-04-17-oage-spending-debt
 venue: "Ohio Association of Gerontology and Education Conference"
 date: 2026-04-17
 location: "Ohio, USA"
