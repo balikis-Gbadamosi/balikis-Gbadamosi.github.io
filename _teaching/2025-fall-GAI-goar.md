@@ -1,5 +1,5 @@
 ---
-title: "Graduate Assistant Instructor — Introduction to Sociology"
+title: "Graduate Assistant Instructor — Introduction to Sociology Fall 2025"
 collection: teaching
 type: "Graduate Assistantship"
 permalink: /teaching/2025-fall-GAI-goar
