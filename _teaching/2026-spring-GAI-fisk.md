@@ -1,5 +1,5 @@
 ---
-title: "Graduate Assistant Instructor — Social Problems"
+title: "Graduate Assistant Instructor — Social Problems, Spring 2026"
 collection: teaching
 type: "Graduate Assistantship"
 permalink: /teaching/2026-spring-GAI-fisk
