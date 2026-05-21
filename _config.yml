@@ -29,6 +29,7 @@ author:
   bio              : "MA student in Medical and Mental Health Sociology at Kent State University, with a passion for understanding how trauma, adversity, and life experiences shape health outcomes. Grounded in the stress process model, life course theory, and the study of ACEs."
   location         : "United States"
   employer         : "Kent State University"
+  uri              : # URL
   email            : "bgbadamo@kent.edu" 
 
   # Academic websites
@@ -37,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=EE6FqxMAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0000-7307-3057"
+  orcid            : "0009-0000-7307-3057"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #
@@ -67,7 +68,7 @@ author:
   lastfm           : # Username
   linkedin         : "balikis-gbadamosi"
   mastodon         : # URL
-  medium           : "Inner_Soul_Scribing"
+  medium           : "balikisbadamosi"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
