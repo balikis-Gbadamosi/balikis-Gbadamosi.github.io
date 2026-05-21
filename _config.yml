@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=EE6FqxMAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "0009-0000-7307-3057"
+  orcid            : "https://orcid.org/0009-0000-7307-3057"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : #
@@ -68,7 +68,7 @@ author:
   lastfm           : # Username
   linkedin         : "balikis-gbadamosi"
   mastodon         : # URL
-  medium           : "balikisbadamosi"
+  medium           : "https://medium.com/@balikisbadamosi"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
