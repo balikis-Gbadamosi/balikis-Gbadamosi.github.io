@@ -21,9 +21,11 @@ Lagos State University, Nigeria — 2023
 
 ## Areas of Specialization
 - Sociology of Mental Health
+- Adverse Childhood Experiences
+- Life Course and Aging
 - Medical Sociology
-- Life Course
-- Sociology of Aging and Family
+- Health Inequalities
+- Family and Social Relationships
 - Qualitative & Quantitative Methods
 
 ---
@@ -45,25 +47,13 @@ Kent State University | Dr. Rebecca Catto | Course: Social Problems
 - Served as judge for in-class debates using grading rubrics
 - Conducted qualitative content analysis of newspaper articles using NVivo
 
-**Graduate Assistant Instructor** — Spring 2026
-Kent State University | Dr. Susan Fisk | Course: Social Problems
-- Attended lectures and supported classroom instruction
-- Graded assignments and tracked student participation
-
-**Graduate Assistant Instructor** — Fall 2025
-Kent State University | Dr. Carla Goar | Course: Introduction to Sociology
-- Assisted with classroom technology and instructional setup
-- Graded assignments, quizzes, and tracked participation
-- Held weekly office hours to support students
-
 **Research Scholar** — 2024
 Leaders of African Institute
 *Thesis: Examining Social Inequalities in Waste Management Practices
 in Mararaba and Abuja, Nigeria*
 - Designed independent research analyzing socio-environmental disparities
 - Conducted comparative study on waste management between urban and suburban areas
-- Collected qualitative data (focus groups, interviews) and analyzed
-survey data using R
+- Collected and analyzed qualitative data (focus groups, interviews)
 
 **Research Assistant** — 2023
 Lagos State University | Dr. Raji Sakiru
@@ -98,11 +88,21 @@ Lagos State University | Ojo, Lagos, Nigeria
 ---
 
 ## Teaching Experience
+**Graduate Assistant Instructor** — Spring 2026
+Kent State University | Dr. Susan Fisk | Course: Social Problems
+- Attended lectures and supported classroom instruction
+- Graded assignments and tracked student participation
 
 **Guest Lecturer** — April 2026
 Kent State University | Dr. Rebecca Catto | Course: Social Problems
 - Delivered lecture on mental health and gender to undergraduate students
 - Drew on comparative insights from Nigeria and the United States
+
+**Graduate Assistant Instructor** — Fall 2025
+Kent State University | Dr. Carla Goar | Course: Introduction to Sociology
+- Assisted with classroom technology and instructional setup
+- Graded assignments, quizzes, and tracked participation
+- Held weekly office hours to support students
 
 **Research Mentor** — February–April 2025
 Wale University
