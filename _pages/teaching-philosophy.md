@@ -20,7 +20,7 @@ undergraduate studies in a system not always designed for students like
 me, shapes every value I bring into the classroom. I did not always have 
 a teacher who saw me as a whole person. I experienced the weight of 
 cognitive load, of coming to class carrying life alongside coursework. 
-These experiences are not incidental to my teaching — they are central 
+These experiences are not incidental to my teaching, they are central 
 to it. I enter the classroom as a teacher of the whole student, guided 
 by the belief that empathy, intentionality, and care are not soft 
 additions to good pedagogy. They are the foundation of it.
@@ -37,7 +37,7 @@ to do well. The best teachers are not born; they are continuously
 becoming.
 
 As a sociologist, I believe this discipline demands a particular kind 
-of teaching, because we practice sociology every single day — in our 
+of teaching, because we practice sociology every single day in our 
 schools, workplaces, friendships, and in the structures we so often 
 take for granted. Sociology has an explanation for the social world, 
 and my goal is to help students uncover those explanations naturally. 
@@ -49,7 +49,7 @@ My learning goals are grounded in higher order thinking. I want students
 to move beyond surface understanding into deep comprehension, critical 
 analysis, and real-world application of sociological concepts. I want 
 them to leave my class with the ability to take their personal experiences 
-and situate them within larger structural forces — to connect the personal 
+and situate them within larger structural forces,to connect the personal 
 to the political, the individual to the institutional. I also want to 
 foster student autonomy, open dialogue, and independent inquiry. I will 
 use fictional literature alongside sociological texts as an entry point 
@@ -69,8 +69,8 @@ I also recognize that students arrive carrying lives far bigger than
 any single course. The resources I make available will go beyond 
 textbooks. I intend to connect students with university mental health 
 services, food assistance programs, and campus wellness activities. 
-I also plan to send weekend email broadcasts — a space for motivational 
-quotes, educational memes, and poetry — that remind students their 
+I also plan to send weekend email broadcasts, a space for motivational 
+quotes, educational memes, and poetry,that remind students their 
 instructor sees them as whole people.
 
 Assessment in my classroom will reflect my belief that learning is a 
@@ -88,14 +88,14 @@ I am committed to being reflexive in my practice, continuously thinking
 about what is working, what is not, and what my students are teaching 
 me in return.
 
-My teaching philosophy is not a destination — it is a living document 
+My teaching philosophy is not a destination, it is a living document 
 that will grow as I grow, shift as my students teach me, and deepen as 
 I accumulate experience in the classroom. What will remain constant is 
 the belief that first drove me to this path: everyone can learn, but 
 how you pass on the information matters. I intend to honor that belief 
 in every class I teach, every resource I share, and every student I 
 have the privilege of standing before. I am not just teaching sociology. 
-I am teaching people how to see the world differently — and that, to 
+I am teaching people how to see the world differently, and that, to 
 me, is everything.
 
 ---
