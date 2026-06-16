@@ -17,7 +17,7 @@ My core research interests include:
 - Life Course and Aging
 - Childhood Adversity and Trauma
 - Health Inequalities
-- Quantitaive and Qualitative Method
+- Quantitative and Qualitative Method
 
 I am passionate about understanding how structural and social 
 factors contribute to health disparities, and how early 
