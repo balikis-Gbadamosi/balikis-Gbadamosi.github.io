@@ -1,32 +1,44 @@
 ---
 title: "TraumaTrace"
-excerpt: "An interactive web application visualizing how ACEs and childhood trauma compound across the life course."
+excerpt: "An interactive application helping people recognize and find language for the patterns that have shaped them."
 collection: portfolio
 ---
 
-TraumaTrace is an interactive web application currently in development, 
-built in R Shiny. It is designed to make the long-term consequences of 
-Adverse Childhood Experiences (ACEs) visible and accessible to 
-researchers, families, and communities.
+TraumaTrace is an interactive application currently in development, designed 
+to help people recognize and find language for the experiences and patterns 
+that have shaped them. It sits deliberately before the clinical system — 
+surfacing adversity-linked patterns that are often normalized as "personality" 
+and left untraced until they compound into harm. The tool does not diagnose or 
+assign clinical labels; instead, it offers recognition, reflection, and 
+pathways to culturally appropriate support.
 
 ## What TraumaTrace Does
 
-**Exposure Layer**
-Visualizes how ACEs and childhood trauma compound across the life 
-course — showing patterns, data, and real consequences that often 
-go unseen. Someone opens it and within minutes understands something 
-they did not understand before about how childhood trauma does not 
-stay in childhood.
+**Recognition & Mapping Layer**
+Guides users through a brief, structured self-reflection across current 
+stressors, patterns of coping and relating, and early-life experiences. Using 
+a transparent classification framework, it maps responses to adaptation 
+patterns — such as hypervigilance, parentification, or emotional numbing — 
+helping people understand how present-day patterns may connect to earlier 
+experiences across the life course.
 
-**Support Kit Layer**
-Provides practical resources for families and communities navigating 
-trauma, aging, and mental health — grounded in lived realities rather 
-than purely clinical frameworks.
+**Language Layer**
+A glossary grounded in African realities gives users accessible 
+terminology for experiences that frequently go unnamed, replacing cultural 
+misrecognition with clear, compassionate understanding.
 
-## Built With
-- R Shiny
-- Qualitative and quantitative sociological frameworks
-- Stress Process Model and Life Course Theory
+**Support Layer**
+Connects users to practical resources and to context-oriented therapeutic 
+support, addressing the stigma that often keeps people from seeking help 
+before patterns deepen.
+
+## Methodological Grounding
+TraumaTrace integrates validated measures of childhood adversity and coping 
+with an original, in-development classification framework centered on African 
+kinship systems and intergenerational adversity. Its design is informed by the 
+Stress Process Model, Life Course Theory, and the Adverse Childhood Experiences 
+literature.
 
 ## Status
-Currently in active development.
+Currently in active development, with planned user-testing to refine its 
+assessment structure and classification logic.
