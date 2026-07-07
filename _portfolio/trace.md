@@ -2,6 +2,7 @@
 title: "Trace"
 excerpt: "An interactive application helping people recognize and find language for the patterns that have shaped them."
 collection: portfolio
+---
 
 _In development · Research & design phase (2026)_
 Many of the ways we cope are never named. They get called "attitude," or
