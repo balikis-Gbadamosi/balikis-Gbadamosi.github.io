@@ -55,14 +55,6 @@ in Mararaba and Abuja, Nigeria*
 - Conducted comparative study on waste management between urban and suburban areas
 - Collected and analyzed qualitative data (focus groups, interviews)
 
-**Research Assistant** — 2023
-Lagos State University | Dr. Raji Sakiru
-*Thesis: Impacts of Depression on Teenagers Living with HIV/AIDS in
-Mushin and Lagos State, Nigeria*
-- Assisted with qualitative and quantitative analysis
-- Trained in IBM SPSS for statistical analysis
-- Conducted literature searches and contributed to manuscript writing
-
 **Undergraduate Research** — 2022
 Lagos State University
 *Thesis: Challenges and Prospect of Operating University Campus
@@ -70,20 +62,6 @@ Shuttle Service in Lagos State University*
 - Conducted in-depth qualitative study on campus shuttle operations
 - Recruited and interviewed 20 respondents including operators and students
 - Reviewed audio transcripts and prepared data for qualitative analysis
-
-**Sociological Fieldwork** — 2022
-Lagos State University | Badagry, Nigeria
-*Thesis: Unemployment and Security Challenges in Badagry LGA*
-- Led research team for focus groups and in-depth interviews
-- Analyzed qualitative data from community leaders and residents
-- Identified correlation between unemployment and security challenges
-
-**Community Development Research** — 2022
-Lagos State University | Ojo, Lagos, Nigeria
-*Thesis: Trends of Development in Ojo Local Government Area*
-- Led research team in comprehensive community development assessment
-- Conducted key informant and in-depth interviews
-- Composed detailed research report with findings and recommendations
 
 ---
 
@@ -169,7 +147,7 @@ Gerontological Society of America Annual Meeting
 
 **Volunteer** — Present
 Generations Connect, Kent State University — Supporting older adults
-in intergenerational community activities
+in community activities
 
 **Advocate** — 2023
 Sustainable Development Goals, Niger State, Nigeria
